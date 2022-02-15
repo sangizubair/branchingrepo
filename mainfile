@@ -1,16 +1,11 @@
-helloo this is master branch file
-we are intended to learn the 
-concept of child  branching
-in Git
-
+This is branch2
 
 currently I am in branch1
 just to show that 
 these changes woulnot reflect in other
 branches
-=======
-
 
 This is branch 1 and 
 i am writing here to see the changes
 made in branch 1 can be merged in master 
+
